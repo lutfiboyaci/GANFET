@@ -1,7 +1,7 @@
-**HAFTALIK PLANLAR**
+# HAFTALIK PLANLAR
 
-# 10.04.2017-14.04.2017
-## Plan:
+## 10.04.2017-14.04.2017
+### Plan:
 
 * "eGAN FET Drivers (EPC)"
 * "Printed Circuit Board Layout and Probing for GaN Power Switches. (Transphorm)"
