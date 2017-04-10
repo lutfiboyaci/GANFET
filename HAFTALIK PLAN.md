@@ -1,6 +1,6 @@
 #**HAFTALIK PLANLAR**#
 
-*10.04.2017-14.04.2017*
+**10.04.2017-14.04.2017**
 
 "eGAN FET Drivers (EPC)"
 
