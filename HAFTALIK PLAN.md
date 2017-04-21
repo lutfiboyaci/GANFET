@@ -1,4 +1,17 @@
 # HAFTALIK PLANLAR
+## 24.04.2017-28.04.2017
+### Plan:
+1. Kartın üretimi LPKF (kazıma kart) cihazında gerçekleştirilecek.
+2. Madde 1 gerçekleşirse, Kart dizimi talebi açılarak ilgili teknisyen ataması yapılacak. 
+3. Madde 2 gerçekleşirse (uygun olan teknisyen var ise), depodan talep edilen malzemeler teknisyene iletilerek, dizim işlemi başlatılacak.
+
+
+## 21.04.2017-23.04.2017
+### Plan:
+1. Depodan talep edilmeyen son malzemeler talep edilecek, talep işi bitecek. 
+2. Kart baskısı için output dosyaları hazırlanacak.(Gerber ve Drill files)   (dosyaları kontrol etmeyi unutma)
+3. Malzeme dizimi için BoM dosyası ve malzeme yerleşimi dosyası hazırlanacak. 
+
 
 ## 10.04.2017-14.04.2017
 ### Plan:
@@ -11,3 +24,8 @@
 2. PCB'de kullanılacak malzemelerden elimde olanlar için malzeme tanımları yapılarak depo kodları oluşturulacak. Malzemeler depoya teslim edilecek, depodaki malzemeler talep edilecek.
 3. Schematic malzeme kodları depo kodları ile eşletirilecek. 
 4. PCB üretimi için KİT tanımlanacak.
+
+1-3-4 maddeleri gerçekleştirildi.  
+2. madde: malzemeler teslim edildi, depo girişleri gerçekleşmediği için talep gerçekleştirilemedi.
+
+
