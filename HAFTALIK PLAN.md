@@ -1,9 +1,33 @@
 # HAFTALIK PLANLAR
+## 05.06.2017-11.06.2017
+### Plan:
+1. 2 numaralı sürücü devresi turn off süresini düşürmek için gate direnci daha düşük bir direnç ile değiştirildikten sonra, tekrar test edilecek. sonuçlar gözlenecek. Math fonksiyonu ile osiloskopta loss grafiği çizdirilecek.
+2. 1 numaralı sürücü devresi test edilecek.
+
+## 29.05.2017-02.06.2017
+### Plan:
+1. 2 numaralı sürücü devresi test edilecek
+
+planlar gerçekleştirildi, test sonuçları paylaşıldı
+
+
+
+## 22.05.2017-28.05.2017
+1. Timer entegresi test edildi. Duty Sinyali üretildi. 
+2. Sinyalin FET'e iletimini sağlayacak jumper lehimlemesi için ilgili teknisyene iletilerek lehimleme yapıldı.
+
+
+
+## 15.05.2017-21.05.2017
+### Kart üretimi gerçekleşti, Ganların X-ray cihazında kısa devre açık devre hatası olup olmadığı kontrol edildi.
+
+
 ## 08.05.2017-14.05.2017
 ### Plan:
 1. Ganların lehimi ayrı yapılıyormuş. LGA paket olduğu için normal lehimleme değil fırınlama yapılması gerekiyormuş. Her teknisyen yapamadığı için, iş ilk atanan teknisyenden alınıp fırınlamayı yapabilecek teknisyene aktarıldı. Kartın üretimini bekliyoruz.
 2. Devrede kullanılan malzemelerle ilgili (timer, sürücü entegreleri) simulasyonlar yapılacak. Çıktılar eklenecek.
 
+planlar gerçekleştrildi.
 
 # HAFTALIK PLANLAR
 ## 24.04.2017-28.04.2017
