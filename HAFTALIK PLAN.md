@@ -1,4 +1,9 @@
 # HAFTALIK PLANLAR
+## 05.09.2017-10.06.2017
+### Plan:
+1. Radyasyon testi devresi şematik çizimi bitirilecek
+2. Şematik çiziminden sonra zaman kalırsa PCB tasarımına geçilecek
+
 ## 05.06.2017-11.06.2017
 ### Plan:
 1. 2 numaralı sürücü devresi turn off süresini düşürmek için gate direnci daha düşük bir direnç ile değiştirildikten sonra, tekrar test edilecek. sonuçlar gözlenecek. Math fonksiyonu ile osiloskopta loss grafiği çizdirilecek.
