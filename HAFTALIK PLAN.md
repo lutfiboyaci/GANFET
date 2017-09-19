@@ -1,13 +1,27 @@
 # HAFTALIK PLANLAR
-## 05.09.2017-10.06.2017
+
+## 18.09.2017-22.09.2017
+1. Şematik çizimi bitecek.
+2. ilgili makaleler okumaya devam edilecek.
+
+## 11.09.2017-17.09.2017
+1. Radyasyon testi için ilgili ekiple yaptığımız toplantıda test düzeneği ayrıntılarını, takvimi, detayları konuştuk. Önce proton parçacıklı SEE yapmayı planlıyoruz. Atom Enerjisi kurumunda, Bilge Hoca'nın proton hızlandırma labında.  Burada run-time ölçümler alacağız. buna uygun bir şematik ve PCB tasarlamak lazım.  6x8 cm lik bir alana test edilecek malzemeleri sıkıştırmam gerekiyor. 
+2. Bu ayrıntılara göre şematik çizimi ve PCB'yi tekrar planladım.
+3. Radyasyon tesleri, etkileri ile ilgili okumalar yapıyorum. Mendeley'e paylaşıyorum. 
+
+## 05.09.2017-10.09.2017
 ### Plan:
 1. Radyasyon testi devresi şematik çizimi bitirilecek
 2. Şematik çiziminden sonra zaman kalırsa PCB tasarımına geçilecek
+
+şematik çizimi bitirilemedi. test için ilgili ekiple konuşmamdan sonra iş düşündüğümden daha ayrıntılı çıktı. haftaya detayların konuşulacağı bir toplantı düzenledik. 
 
 ## 05.06.2017-11.06.2017
 ### Plan:
 1. 2 numaralı sürücü devresi turn off süresini düşürmek için gate direnci daha düşük bir direnç ile değiştirildikten sonra, tekrar test edilecek. sonuçlar gözlenecek. Math fonksiyonu ile osiloskopta loss grafiği çizdirilecek.
 2. 1 numaralı sürücü devresi test edilecek.
+
+planlar gerçekleştirildi
 
 ## 29.05.2017-02.06.2017
 ### Plan:
