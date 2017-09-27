@@ -1,8 +1,12 @@
 # HAFTALIK PLANLAR
+## 25.09.2017-01.10.2017
+1.PCB Tasarımı başlatılacak, ilerlenecek.
 
 ## 18.09.2017-22.09.2017
 1. Şematik çizimi bitecek.
 2. ilgili makaleler okumaya devam edilecek.
+
+Şematik 90% bitti
 
 ## 11.09.2017-17.09.2017
 1. Radyasyon testi için ilgili ekiple yaptığımız toplantıda test düzeneği ayrıntılarını, takvimi, detayları konuştuk. Önce proton parçacıklı SEE yapmayı planlıyoruz. Atom Enerjisi kurumunda, Bilge Hoca'nın proton hızlandırma labında.  Burada run-time ölçümler alacağız. buna uygun bir şematik ve PCB tasarlamak lazım.  6x8 cm lik bir alana test edilecek malzemeleri sıkıştırmam gerekiyor. 
