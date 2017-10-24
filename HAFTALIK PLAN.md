@@ -1,4 +1,15 @@
 # HAFTALIK PLANLAR
+## 23.10.2017-29.10.2017
+Üretim Dosyaları tamamlanacak. 
+ilgili KİT açılacak. 
+Depo malzemeleri istenecek.
+
+## 16.10.2017-20.10.2017
+PCB Layout tasarımı tamamlandı. Üretim dosyaları oluşturmak için gereken yeni program öğrenildi.
+
+## 09.10.2017-15.10.2017
+PCB Layout tasarımı devam etti.
+
 ## 25.09.2017-01.10.2017
 1.PCB Tasarımı başlatılacak, ilerlenecek.
 
