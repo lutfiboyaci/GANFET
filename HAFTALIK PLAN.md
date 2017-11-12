@@ -1,4 +1,13 @@
 # HAFTALIK PLANLAR
+## 06.11.2017-12.11.2017
+Kazıma kart üretimi gerçekleştirildi. 
+Kartın tamamlanması için benim yapacağım kısım bitmiş oldu. Üretim için sıraya girdi kart. 
+Yarın entegrasyon grubu ile detayları konuşacağım, kartın dizgisini önümüzdeki hafta bitirmeyi planladıklarını söylediler. 
+
+## 30.10.2017-03.11.2017
+depo malzemesinde 1 eksik malzeme vardı-1n5401 PNP transistör. satınalma süreçleri uzun olacağı için Ulus konya sokaktan aldım. 
+SAP sistemine geçildiği için, malzeme kodları SAP sisteminde güncellendi ve buna göre yeni kodlar alınarak malzemeler istendi. 
+
 ## 23.10.2017-29.10.2017
 Üretim Dosyaları tamamlanacak. 
 ilgili KİT açılacak. 
