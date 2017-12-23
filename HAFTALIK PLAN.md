@@ -1,9 +1,9 @@
 # HAFTALIK PLANLAR
 ## 18.12.2017-24.12.2017
-Fizik bölümünde Bilge Demirköz Hoca ve ekibinden 3 kişi ile bir toplantı yaptık. Toplantı notlarını ayrı bir doküman olarak paylaşacağım. 
-1. 3. ve 5. Entegreler Vref sinyali olarak 8V üretiyordu. Doğal olarak GANFET'lere (3. ve 5.) ulaşan Vgs sinyali de bu seviyede oluyordu. GANFETLER (3. ve 5.) zarar görmüş olabilir. 4. ve 6. Driver IC de yanmıştı. 
-2. 3-4-5-6 kanaldaki Driver IC ve GANFET'leri toptan değiştirdik. Bu işlem zor bir iş. paketler QFN ve BGA olduğu için işlemler zor ve ardından Xray görüntülemesi gerektiriyor. 
-3. 1. ve 2. kanal anahtarlamasına rağmen, Vgs sinyali okuma çalışmıyordu. muhtemelen RC time constant büyük geliyor. 1Mohm direnç bölücü dirençler 100Kohm'lar ile değiştirildi. 
+1. Fizik bölümünde Bilge Demirköz Hoca ve ekibinden 3 kişi ile bir toplantı yaptık. Toplantı notlarını ayrı bir doküman olarak paylaşacağım. 
+2. 3. ve 5. Entegreler Vref sinyali olarak 8V üretiyordu. Doğal olarak GANFET'lere (3. ve 5.) ulaşan Vgs sinyali de bu seviyede oluyordu. GANFETLER (3. ve 5.) zarar görmüş olabilir. 4. ve 6. Driver IC de yanmıştı. 
+3. 3-4-5-6 kanaldaki Driver IC ve GANFET'leri toptan değiştirdik. Bu işlem zor bir iş. paketler QFN ve BGA olduğu için işlemler zor ve ardından Xray görüntülemesi gerektiriyor. 
+4. 1. ve 2. kanal anahtarlamasına rağmen, Vgs sinyali okuma çalışmıyordu. muhtemelen RC time constant büyük geliyor. 1Mohm direnç bölücü 5. dirençler 100Kohm'lar ile değiştirildi. 
 Değişikliklerden sonra testleri yaptım. Driver IC'lerde yine benzer sorunlar oluştu. 4. IC yine ısındı. Demek ki problem IC'lerde değil, başka bir şeyde. Vgs okuma bu sefer daha iyi çalıştı. Dirençlerin 10kOhm'a düşürülmesiyle tamamen çözülecektir diye tahmin ediyorum. Test sonuçlarını paylaşacağım.
 ## 11.12.2017-17.12.2017
 1. Akım okuma devresi çalışmıyordu, problemin akım okuma entegresinin yerinden kaynaklandığını düşünüyorum. İlk üretimde 50V'dan Grounda doğru Taş Direnç, Akım okuma, GANFET şeklinde sıralanıyordu. GANFET ON durumunda Drain gerilimini 0V'a çektiğinde Akım okuma entegresi pini de 0V'u görüyor. Entegre dışardan besleme almadığı için gücünü bu pinden alıyor. 0V durumunda güç alamadığı için çalışmıyor olabilir. 
