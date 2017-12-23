@@ -1,4 +1,12 @@
 # HAFTALIK PLANLAR
+## 20.11.2017-10.12.2017
+GAN_RAD_TEST_KARTI dizgisi tamamlandı.
+Alüminyum şase üzerine 6 adet taş direncin yerleştirilip ısının atılacağı bir heatsink üretildi. 
+Kartı denedim. Kare dalga üretimi başarılı. 
+6 adet kanaldan yalnızca 1. ve 2. kanal anahtarlıyor. 3. ve 5. kanal Driver IC'lerin Vref pininde 5V üretmesi gerekirken 8V civarında üretiyor. Doğal olarak GANFET'lerin Vgs Sinyali de 8V olarak gidiyor. Bu EPC GANFET'lerin Vgs max sınırı dışında. GANFET 3 ve 5 yanmış olabilir. 4. ve 6. driver'a termal kamera ile bakınca 110 C'ye ulaştıklarını gördüm. Driver IC 4 ve 6 yandı. değiştirilmesi gerekiyor. 
+Akım okuma devresi çalışmıyor. GANFET Turn-ON olduğunda AD8212 Akım okuma entegresinin güç aldığı pin 0 V'a düşüyor. Problem buradan kaynaklanıyor diye tahmin ediyorum. akım okuma entegresini 50V girişine taşımak gerekiyor. Böylece V+ pini hep 50V'u görecek. Bunu yapmak problemi çözebilir.
+GANFET'in Vgs gerilimini direnç bölücü üzerinden okuyoruz. Fakat düzgün okuyamıyoruz. Direnç bölücü direnç değerleri çok yüksek olduğu için Vgs sinyali hızına yetişemiyor. RC time constant çok yüksek. Direnç değerlerinin düşürülmesi problemi çözebilir.
+Laboratuvar çalışmaları yapıldı. Gerekli gördüğüm osiloskop görüntülerini paylaşacağım.
 ## 06.11.2017-12.11.2017
 Kazıma kart üretimi gerçekleştirildi. 
 Kartın tamamlanması için benim yapacağım kısım bitmiş oldu. Üretim için sıraya girdi kart. 
