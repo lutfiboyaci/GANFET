@@ -1,4 +1,12 @@
 # HAFTALIK PLANLAR
+## 24.12.2017-30.12.2017
+1. Vgs okuma direnç bölücüleri olan 12 adet 100kOhm 10kOhm olarak değiştirilecek. 
+2. 3-4-5-6 kanalları IC beslemesi ve Referans pinindeki 8 adet tantal kapasitör 2.2uF seramik çipler ile değiştirilecek.
+3. 1 numaralı kanalın akım okuma devresini 50V tarafına alarak çalıştırmıştık.  2 numaralı kanal da anahtarlıyordu. Bu kanalın akım okuma devresi de 50V tarafına alınacak. Çalışırsa 3. numaralı kanala da aynısı uygulanacak. Aynı işlem sıra ile anahtarlayan kanallara uygulanacak.
+4. taş direnç anahtarlayınca 105 C'ye ulaşıyor. Sıcaklığını düşürmek için 555 Timer'ın Duty Cycle'ı düşürülebilir. Vakit kalırsa yeniden direnç veya kapasitör değerleri ile eskilerini değiştirerek Duty'i kıs. 
+5. 4 numaralı kanaldaki Driver IC yanmış olabilir, 6. kanala gücü vererek teste devam et. 4-5 kanallarını yolu neşter ile keserek bypass et. 6 çalışırsa 5 e geç.
+6. 4 numaralı kanalın IC 12V beslemesinin kapasitörünü çıkararak yolunu da neşter ile kesmiştim. lehimlerken kısa devre yapmış olabilirim sanırım. ona dikkat et. varsa açtır. 
+7. Yukarıdakilerden vakit kalırsa yeni bir kartın üretimi için şematik-PCB çizimine başla. Bilge hoca 2 farklı MeV seviyesi için test yapılabileceğini söyledi. Bunun için 2 kart gerekiyor. Bir kart ile ikisine de giremiyoruz. 
 ## 18.12.2017-24.12.2017
 1. Fizik bölümünde Bilge Demirköz Hoca ve ekibinden 3 kişi ile bir toplantı yaptık. Toplantı notlarını ayrı bir doküman olarak paylaşacağım. 
 2. 3 ve 5. Entegreler Vref sinyali olarak 8V üretiyordu. Doğal olarak GANFET'lere (3. ve 5.) ulaşan Vgs sinyali de bu seviyede oluyordu. GANFETLER (3. ve 5.) zarar görmüş olabilir. 4. ve 6. Driver IC de yanmıştı. 
