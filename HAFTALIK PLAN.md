@@ -1,4 +1,12 @@
 # HAFTALIK PLANLAR
+## 02.01.2018-07.01.2018
+1. TAEK'e gittik. bir toplantı yapıp test düzeneğini inceledik. 
+2. Loglama sistemi test edilecek. loglama scope ile yapılacak. başka seçenek bulamadık. değişik sampling rate'lerde farklı süreler için örnek testler yapılacak.
+3. 25 metre kablo üzerinden Vgs ve Ids sinyalleri gönderilerek kablo kapasitans ve indüktans etkileri gözlemlenecek. TAEK'te 3x2x0.34mm^2 kablo var düzenekte. 
+4. Duty düşürülecek.
+5. Loglama aynı anda 3 sinyali loglayabileceği için, acele bir şekilde, 1 veya 2 kanalda anahtarlayan yeni kartlar üretmem gerekiyor. (benim kartta 6 kanal anahtarlıyor). 4-5 kanaldan log alamayacağız bu durumda. 
+6. Şu anki kartı kesip, 1 veya 2 kaknaldan anahtarlayan küçük kartlara bölebilirim.
+7. Akım probu yeni scope'a uyuyor mu diye bak. 
 ## 24.12.2017-30.12.2017
 1. Vgs okuma direnç bölücüleri olan 12 adet 100kOhm 10kOhm olarak değiştirilecek. 
 2. 3-4-5-6 kanalları IC beslemesi ve Referans pinindeki 8 adet tantal kapasitör 2.2uF seramik çipler ile değiştirilecek.
