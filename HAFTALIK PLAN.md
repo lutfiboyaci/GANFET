@@ -1,4 +1,12 @@
 # HAFTALIK PLANLAR
+## 08.01.2018-14.01.2018
+1. 2 kanallı yeni kart Şematik-PCB hızlıca tasarlanacak. 
+2. Kazıma kart ürettirilerek malzemeler depodan talep edilecek. ilgili kit açılacak. mümkünse dizgi işlemi de tamamlanacak. haftasonu yeni kartı test etmeye çalışacağım.
+3. scope ile kayıt işlemleri yaptım bir fikrim oluştu. daha uzun süreli, gerçek testi simule edecek şekilde bir ölçüm ve kayıt yapmam lazım.
+4. 2 tane taş direncin monte edilip ısının atılması için mekanik grubundan alüminyum plaka bulunacak, 4 tane delik açtrılacak. 
+5. Twist kablonun capasitansa kötü etkisini geçen hafta deneyerek gözlemledim. kablo ile sinyal iletimi hakkında araştırma yapılacak.
+6. ODTÜ'de toplantı yapılacak, test prosedürü hazırlanacak. 
+7. kartın kalkanlanması için yeni kartın boyutlarını ilet. mekanik çalışma yapılması gerekiyor. 
 ## 02.01.2018-07.01.2018
 1. TAEK'e gittik. bir toplantı yapıp test düzeneğini inceledik. 
 2. Loglama sistemi test edilecek. loglama scope ile yapılacak. başka seçenek bulamadık. değişik sampling rate'lerde farklı süreler için örnek testler yapılacak.
