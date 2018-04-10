@@ -1,4 +1,10 @@
 # HAFTALIK PLANLAR
+## 09.04.2018-17.04.2018
+1. Önümdeki süreçte 2 temel planım var: yaptığımız SEE testlerinin makalesini yazmak ve TID testleri için hazırlanmak.
+2. Bu hafta TID testleri için neler yapacağımı genel hatları ile planlayacağım. kafamdaki düşünce şu: zaten SEE testleri yaptığımız EPC2034 ile birlikte endüstriyel Sİ-MOSFET ve başka bir markanın GANFETİ'ni(silicon kullanılan cascode yapı mı yoksa enhancement yapı mı daha mantıklı olur karar vereceğim) TID testine aynı anda sokabilirim. bu 3 farklı FET hangi kRAD radyasyon seviyesinde bozuluyor gözlemleyebilirim. Bu testte Mosfet düşük TID seviyesinde bozulduğunu GANFET'in dayandığını gösterebilirsek mantıklı olur. 
+3. Hangi markanın hangi yapıda GANFET'i var bir benchmark araştırması yapacağım. seçtiğim 3 FET benzer ratinglerde olursa daha iyi olur.
+4. SEE Makalesi için referans oluşturabilecek makaleler bulup mendeleye ekleyeceğim. 
+
 ## 08.01.2018-14.01.2018
 1. 2 kanallı yeni kart Şematik-PCB hızlıca tasarlanacak. 
 2. Kazıma kart ürettirilerek malzemeler depodan talep edilecek. ilgili kit açılacak. mümkünse dizgi işlemi de tamamlanacak. haftasonu yeni kartı test etmeye çalışacağım.
